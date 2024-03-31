@@ -18,3 +18,5 @@ Currently there is a issue with everything being underwater, I cannot find the r
 TO-DO
 Soyuz pad in kourou
 Figure out what the heck is going on with the layout at slc-37 with starship
+Mojave Spaceport
+smaller pads such as rfa and such
