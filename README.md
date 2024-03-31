@@ -20,3 +20,7 @@ Soyuz pad in kourou
 Figure out what the heck is going on with the layout at slc-37 with starship
 Mojave Spaceport
 smaller pads such as rfa and such
+
+
+
+this mod is under a creative commons license  I have only done the configs I have not done any work with making the ingame assets
