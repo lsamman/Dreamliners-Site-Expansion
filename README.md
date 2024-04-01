@@ -23,4 +23,4 @@ smaller pads such as rfa and such
 
 
 
-this mod is under a creative commons license  I have only done the configs I have not done any work with making the ingame assets
+Liscense: Creative Commons
