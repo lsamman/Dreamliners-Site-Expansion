@@ -23,4 +23,4 @@ smaller pads such as rfa and such
 
 
 
-Liscense: Creative Commons
+Liscense: CC BY-NC-SA
