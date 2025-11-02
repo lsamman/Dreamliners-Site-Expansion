@@ -18,7 +18,7 @@ Launch Sites Appended
 Katniss Cape Canaveral
 
 NOTES
-Currently there is a issue with everything being underwater, I cannot find the root of this issue so please if you have any info let me know via discord
+Currently there is a issue with everything being underwater, I cannot find the root of this issue so please if you have any info let me know via discord (Pretty sure this is if your ksc is set to a remade launch site or if you do not have earth UHD installed)
 
 TO-DO
 EU spaceports coming soon
