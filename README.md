@@ -18,10 +18,5 @@ Katniss Cape Canaveral
 NOTES
 Currently there is a issue with everything being underwater, I cannot find the root of this issue so please if you have any info let me know via discord
 
-TO-DO
-EU spaceports coming soon
-;]
-
-
 
 Liscense: CC BY-NC-SA
