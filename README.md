@@ -1,6 +1,6 @@
 Dreamliners KSRSS Site Expansion
 
-***This branch is for testing compatibility with SOL and adding sites past the point of shifting development to using the SOL planet pack*** 
+***This branch is for testing compatibility with SOL and adding sites past the point of shifting development to using the SOL planet pack ------- No Mirage compatibility*** 
 
 DEPENDENCIES
 
@@ -16,7 +16,6 @@ Launch Sites Appended
 Katniss Cape Canaveral
 
 NOTES
-Currently there is a issue with everything being underwater, I cannot find the root of this issue so please if you have any info let me know via discord
-
+Very Untested but statics now load in sol
 
 Liscense: CC BY-NC-SA
