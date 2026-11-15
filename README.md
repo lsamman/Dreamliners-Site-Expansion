@@ -1,4 +1,4 @@
-Dreamliners KSRSS Site Expansion
+Dreamliners Sol Site Expansion
 
 ***This branch is for testing compatibility with SOL and adding sites past the point of shifting development to using the SOL planet pack ------- No Mirage compatibility*** 
 
